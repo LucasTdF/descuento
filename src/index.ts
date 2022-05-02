@@ -7,4 +7,4 @@ btnPrecio.addEventListener("click", () => {
     precioProducto.value - precioProducto.value * 0.1
   );
 });
-let a;
+let a = 1;
